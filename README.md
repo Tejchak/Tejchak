@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Tej! psyche
+My name is Tej! 
+
+Major is computer science and graduation is 2027
 <!--
 **Tejchak/Tejchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
